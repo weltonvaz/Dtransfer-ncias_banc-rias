@@ -1,2 +1,4 @@
-# Dtransfer-ncias_banc-rias
+# Desafio transferências bancárias
 Criando uma aplicação de transferências bancárias com .NET
+
+by: Welton Vaz
